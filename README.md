@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mashuk Rony
-- 🌱 I’m currently in 3rd year as a Software engineering student (Bachelor's)
+- 🌱 I’m currently a 3rd-year Software Engineering student (Bachelor's)
 - 📫 How to reach me: mashukrony012@gmail.com
 
 <!---
